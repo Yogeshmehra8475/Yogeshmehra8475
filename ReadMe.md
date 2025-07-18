@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development and Artificial Intelligence <br>👯 I’m looking to collaborate on Web Development Projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning more of AI<br>💬 Ask me about anything<br>⚡ Fun fact: I
+🔭 I’m currently working on Full Stack Development and Artificial Intelligence <br>👯 I’m looking to collaborate on Web Development Projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning more of AI<br>💬 Ask me about anything<br>⚡ Fun fact: 
 
 
 ## 🌐 Socials:
