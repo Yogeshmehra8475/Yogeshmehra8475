@@ -4,8 +4,11 @@
 
 <!-- 🎨 Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=YOGESH%20SINGH%20MEHRA&fontSize=45&fontAlignY=35&animation=fadeIn&desc=🚀%20Full%20Stack%20Dev%20|%20🤖%20AI%20&%20ML%20Enthusiast%20|%20📊%20Data%20Science%20Explorer&descSize=20&descAlignY=55" />
+  <a href="https://www.canva.com/design/DAGyOupkWE0/dNqPeNsWLt3D0-ky4k5n2w/watch">
+    <img src="https://raw.githubusercontent.com/Yogeshmehra8475/Yogeshmehra8475/main/assets/Yogesh_banner.png" alt="Yogesh Singh Mehra Banner" />
+  </a>
 </p>
+
 
 ---
 
