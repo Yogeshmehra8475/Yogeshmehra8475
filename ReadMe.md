@@ -2,8 +2,10 @@
 <!-- 🌟 YOGESH SINGH MEHRA - README 🌟 -->
 <!-- =============================== -->
 
-<h1 align="center">Hey there 👋, I'm Yogesh Singh Mehra</h1>
-<h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast | 💡 Lifelong Learner</h3>
+<!-- 🎨 Custom Banner (replace the link below with your own Canva banner) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=YOGESH%20SINGH%20MEHRA&fontSize=45&fontAlignY=35&animation=fadeIn&desc=🚀%20Full%20Stack%20Developer%20|%20🤖%20AI%20Enthusiast%20|%20💡%20Lifelong%20Learner&descSize=20&descAlignY=55" />
+</p>
 
 ---
 
