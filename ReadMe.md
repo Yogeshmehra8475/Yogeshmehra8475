@@ -89,6 +89,14 @@
 
 ---
 
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 ## 🔥 Activity & Contributions  
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogeshmehra8475&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" />
