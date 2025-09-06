@@ -3,8 +3,6 @@
 <!-- =============================== -->
 
 <!-- 🎨 Banner -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1750&pause=1000&color=6EB891&background=FF141400&width=435&lines=Hey+there!+Yogeshmehra8475+here;Welcome+to+my+github+readme!;I+luv+to+code;HMTL%2C+Python+and+JS+wizard.;always+wishing+everyone+a+great+day+%3AD;Learn+Python+code+its+easy.🤡)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=YOGESH%20SINGH%20MEHRA&fontSize=45&fontAlignY=35&animation=fadeIn&desc=🚀%20Full%20Stack%20Dev%20|%20🤖%20AI%20&%20ML%20Enthusiast%20|%20📊%20Data%20Science%20Explorer&descSize=20&descAlignY=55" />
 </p>
