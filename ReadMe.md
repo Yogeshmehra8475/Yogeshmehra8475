@@ -5,7 +5,7 @@
 <!-- 🎨 Banner -->
 <p align="center">
   <a href="https://www.canva.com/design/DAGyOupkWE0/dNqPeNsWLt3D0-ky4k5n2w/watch">
-    <img src="https://raw.githubusercontent.com/Yogeshmehra8475/Yogeshmehra8475/main/assets/Yogesh_banner.png" alt="Yogesh Singh Mehra Banner" />
+    <img src="https://github.com/Yogeshmehra8475/Yogeshmehra8475/blob/main/Yogesh_banner.png" alt="Yogesh Singh Mehra Banner" />
   </a>
 </p>
 
