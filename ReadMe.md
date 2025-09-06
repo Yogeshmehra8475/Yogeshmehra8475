@@ -1,20 +1,20 @@
 <!-- =============================== -->
-<!-- 🌟 YOGESH SINGH MEHRA - README 🌟 -->
+<!-- 🚀 YOGESH SINGH MEHRA - README 🚀 -->
 <!-- =============================== -->
 
-<!-- 🎨 Custom Banner (replace the link below with your own Canva banner) -->
+<!-- 🎨 Custom Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=YOGESH%20SINGH%20MEHRA&fontSize=45&fontAlignY=35&animation=fadeIn&desc=🚀%20Full%20Stack%20Developer%20|%20🤖%20AI%20Enthusiast%20|%20💡%20Lifelong%20Learner&descSize=20&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=YOGESH%20SINGH%20MEHRA&fontSize=45&fontAlignY=35&animation=fadeIn&desc=🚀%20Full%20Stack%20Dev%20|%20🤖%20AI%20&%20ML%20Enthusiast%20|%20📊%20Data%20Science%20Explorer&descSize=20&descAlignY=55" />
 </p>
 
 ---
 
 ## 💫 About Me  
-🔭 Currently working on **Full Stack Development** and **Artificial Intelligence**  
-👯 Open to collaborate on **Web Development & AI Projects**  
-🌱 Exploring **MERN stack, Machine Learning & Cloud Computing**  
-💬 Ask me about **APIs, Databases, React, Node.js, AI Models**  
-⚡ Fun fact: I love turning **complex problems into simple creative solutions** ✨  
+🔭 Building **Full Stack Applications** & diving deep into **Artificial Intelligence**  
+🌱 Exploring **Machine Learning, Deep Learning & Cloud Technologies**  
+👯 Open to collaborate on **Web Dev, AI/ML, and Data Science Projects**  
+💬 Ask me about **React, Node.js, Databases, APIs, AI Models, and Data Pipelines**  
+⚡ Fun fact: I mix **logic + creativity** → code + design = magic ✨  
 
 ---
 
@@ -27,35 +27,40 @@
 
 ---
 
-## 💻 Tech Arsenal  
+## 💻 Tech & Tools  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts,nodejs,react,redux,bootstrap,tailwind,express,mongodb,mysql,git,github,vscode,vite,vercel,netlify,anaconda,pandas,numpy,photoshop,premiere,canva&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts,react,redux,nodejs,express,mongodb,mysql,bootstrap,tailwind,vite,vercel,netlify,git,github,vscode,anaconda,tensorflow,pytorch,sklearn,pandas,numpy,mysql,oracle,photoshop,premiere,canva&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Streaks  
+## 📊 GitHub Stats  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Yogeshmehra8475&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170px"/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=Yogeshmehra8475&theme=tokyonight&hide_border=false" height="170px"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshmehra8475&theme=tokyonight&hide_border=false&layout=compact&langs_count=10" height="170px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshmehra8475&theme=tokyonight&hide_border=false&layout=compact&langs_count=12" height="170px"/>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements  
+## 🏆 Achievements & Trophies  
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Yogeshmehra8475&theme=radical&no-frame=false&no-bg=true&margin-w=8" />
 </p>
 
 ---
 
-## 🔥 Contribution Graph  
+## 🔥 Activity & Contributions  
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogeshmehra8475&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" />
+</p>
+
+---
+
+## 🤖 AI & Data Science Stats  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogeshmehra8475&repo=AI-Projects&theme=radical&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogeshmehra8475&repo=Data-Science-Projects&theme=tokyonight&border_radius=10" />
 </p>
 
 ---
@@ -84,10 +89,10 @@
 ## 👀 Profile Views  
 <p align="center">
 <a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=Yogeshmehra8475&icon=2&color=12" />
+<img src="https://visitcount.itsvg.in/api?id=Yogeshmehra8475&icon=6&color=3" />
 </a>
 </p>
 
 ---
 
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨  
+✨ _“First, solve the problem. Then, write the code.”_ ✨  
