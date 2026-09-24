@@ -24,7 +24,7 @@
 ## 🌐 Connect With Me  
 <p align="center">
 <a href="mailto:yogeshmehra2509@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-<a href="https://www.linkedin.com/in/yogesh-singh-mehra-7383ba251"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/yogesh-singh-mehra/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 <a href="https://github.com/Yogeshmehra8475"><img src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white&style=for-the-badge" /></a>
 </p>
 
