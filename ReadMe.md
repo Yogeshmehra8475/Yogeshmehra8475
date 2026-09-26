@@ -112,25 +112,6 @@
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
 
-### 🔬 Data Science Concepts
-
-* Exploratory Data Analysis (EDA)
-* Data Cleaning & Preprocessing
-* Feature Engineering & Feature Selection
-* Statistical Analysis & Hypothesis Testing
-* Probability & Statistical Modeling
-* Correlation & Regression Analysis
-* Supervised & Unsupervised Learning
-* Classification & Regression
-* Clustering & Dimensionality Reduction
-* Model Evaluation & Cross-Validation
-* Hyperparameter Tuning
-* Imbalanced Data Handling
-* Predictive Modeling
-* Time Series Analysis
-* NLP & Text Analytics
-* Deep Learning
-* Computer Vision
 
 ### 🗄️ Databases & Data Engineering
 
